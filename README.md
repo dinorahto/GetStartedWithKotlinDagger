@@ -116,6 +116,13 @@ You are almost there! All the code for these library projects is based on:
 2. Rx Java: https://github.com/ReactiveX/RxJava
 3. Dagger: http://square.github.io/dagger/
 
+Contact
+=======
+If you need help, We always happy to help, you can found me here:
+Medium: https://medium.com/@dinorahto
+StackoverFlow: https://stackoverflow.com/users/4613259/dinorah-tovar
+Email: dinorahtovar@minttcode.com
+
 License
 =======
 Copyright 2017
